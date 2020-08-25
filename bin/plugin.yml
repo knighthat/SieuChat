@@ -1,0 +1,10 @@
+name: SieuChat
+version: 1.0
+author: KnightHat
+main: me.knighthat.sieuchat.SieuChat
+api-version: 1.13
+commands:
+  sieuchat:
+    usage: /sieuchat
+    permission:
+      - sieuchat.admin

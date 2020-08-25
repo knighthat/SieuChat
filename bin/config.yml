@@ -1,0 +1,10 @@
+#Vì minecraft không cho bỏ mấy cái emoji hay là biểu tượng không phải của unicode vào nên các bạn thông cảm dùng Unicode Symbols giúp mình nhé!
+#Link để xem các biểu tượng: https://en.wikipedia.org/wiki/Miscellaneous_Symbols
+#Muốn thêm thì chỉ việc copy các mục dưới chữ SieuChat xong dán sao cho ngay hàng với nhưng cái trên, thay trên mục ví dụ đã có 1, 2 rồi thì copy ra đổi tên thành 3 và tương tự cho các mục sau
+SieuChat:
+  1:
+    Nhap-Vao: "hello"
+    Thay-The: "Xin chào!" 
+  2:
+    Nhap-Vao: "[sao đen]"
+    Thay-The: "★"
